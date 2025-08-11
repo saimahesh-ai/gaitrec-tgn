@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GaitRec Temporal Graph Network (TGN) System
 
 A comprehensive implementation of Temporal Graph Networks for analyzing the GaitRec dataset, enabling pathology detection, progression tracking, and clinical decision support for musculoskeletal gait impairments.
@@ -328,3 +329,7 @@ For questions and support:
 ---
 
 **Note**: This system is designed for research and clinical applications. Always validate results with clinical experts and follow appropriate medical protocols.
+=======
+# gaitrec-tgn
+GaitRec Temporal Gait Graph Neural Network project
+>>>>>>> b8051cf1f0e36c66fe06de7769925013f554120c
